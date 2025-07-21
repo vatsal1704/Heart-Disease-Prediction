@@ -30,7 +30,7 @@ Heart disease remains one of the leading causes of death globally. Early detecti
 
 ## 🚀 Live Demo
 
-👉 **[Click here to try the app!]https://heart-disease-predictionnn.streamlit.app/**
+👉 **[Click here to try the app!](https://heart-disease-predictionnn.streamlit.app/)**
 
 > No installation required – access directly from your browser!
 
